@@ -1,8 +1,10 @@
 import React from 'react'
-
+import Fetch from './Fetch'
 function App() {
   return (
-    <div>My mum is a good person</div>
+  <div>
+    <Fetch/>
+  </div>
   )
 }
 
